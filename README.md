@@ -1,6 +1,6 @@
 # tootcafe-blocked-instances
 
-List of Mastodon instances blocked by https://toot.cafe. If you think an instance has been unfairly blocked, please open an issue and/or a pull request.
+List of Mastodon instances blocked by [toot.cafe](https://toot.cafe). If you think an instance has been unfairly blocked, please open an issue and/or a pull request.
 
 Initially based on [this toot](https://toot.cat/users/polymerwitch/updates/556).
 
