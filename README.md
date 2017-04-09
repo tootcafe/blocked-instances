@@ -1,4 +1,4 @@
-Blocked on Mastodon
+List of Toot Café Blocked Instances
 =======
 
 This is a list of Mastodon instances blocked by [toot.cafe](https://toot.cafe). If you think an instance has been unfairly blocked, please open an issue and/or a pull request.
