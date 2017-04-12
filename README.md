@@ -19,6 +19,7 @@ gorf.club
 sealion.club
 gs.smuglo.li
 unsafe.space
+wrongthink.net
 ```
 
 References
