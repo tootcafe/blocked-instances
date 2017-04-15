@@ -21,6 +21,7 @@ Blocked instances
 | gs.smuglo.li | silenced | Advice of toot.cat admin, GNUSocial apparent free speech zone\*\* |
 | unsafe.space | silenced | Advice of toot.cat admin, GNUSocial apparent free speech zone\*\* |
 | pawoo.net | suspended | Sexualized depictions of children (lolicon) |
+| wrongthink.net | silenced | GNUSocial apparent free speech zone\*\* |
 
 ### Footnotes
 
