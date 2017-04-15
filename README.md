@@ -10,17 +10,19 @@ Blocked instances
 
 | Instance | Status | Reason |
 | ---- | ---- | ---- |
-| rainbowdash.net | silenced | Advice of toot.cat/cybre.space admins, GNUSocial apparent free speech zone |
-| shitposter.club | silenced | Advice of toot.cat/cybre.space admins, GNUSocial apparent free speech zone |
-| freezepeach.xyz | silenced | Advice of toot.cat/cybre.space admins, GNUSocial apparent free speech zone |
-| social.headsca.la | silenced | Advice of toot.cat/cybre.space admins, GNUSocial apparent free speech zone |
-| woofer.alfter.us | silenced | Advice of toot.cat admin, GNUSocial apparent free speech zone |
-| social.au2pb.net | silenced | Advice of toot.cat admin, GNUSocial apparent free speech zone |
-| gorf.club | silenced | Advice of toot.cat admin, GNUSocial apparent free speech zone |
-| sealion.club | silenced | Advice of toot.cat/cybre.space admins, GNUSocial apparent free speech zone |
-| gs.smuglo.li | silenced | Advice of toot.cat admin, GNUSocial apparent free speech zone |
-| unsafe.space | silenced | Advice of toot.cat admin, GNUSocial apparent free speech zone |
+| rainbowdash.net | silenced | Advice of toot.cat/cybre.space admins, GNUSocial apparent free speech zone* |
+| shitposter.club | silenced | Advice of toot.cat/cybre.space admins, GNUSocial apparent free speech zone* |
+| freezepeach.xyz | silenced | Advice of toot.cat/cybre.space admins, GNUSocial apparent free speech zone* |
+| social.headsca.la | silenced | Advice of toot.cat/cybre.space admins, GNUSocial apparent free speech zone* |
+| woofer.alfter.us | silenced | Advice of toot.cat admin, GNUSocial apparent free speech zone* |
+| social.au2pb.net | silenced | Advice of toot.cat admin, GNUSocial apparent free speech zone* |
+| gorf.club | silenced | Advice of toot.cat admin, GNUSocial apparent free speech zone* |
+| sealion.club | silenced | Advice of toot.cat/cybre.space admins, GNUSocial apparent free speech zone* |
+| gs.smuglo.li | silenced | Advice of toot.cat admin, GNUSocial apparent free speech zone* |
+| unsafe.space | silenced | Advice of toot.cat admin, GNUSocial apparent free speech zone* |
 | pawoo.net | suspended | Sexualized depictions of children (lolicon) |
+
+_"Free speech zone": a place where it's okay to promote e.g. National Socialism because the argument is that open discussion is more important than people's sensitivities or the denazification laws of Germany/France/etc. The term is not meant in a derogatory way; if there's a better one, let me know._
 
 Notes on our instance
 -----
