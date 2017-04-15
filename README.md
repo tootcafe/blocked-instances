@@ -22,7 +22,7 @@ Blocked instances
 | unsafe.space | silenced | Advice of toot.cat admin, GNUSocial apparent free speech zone* |
 | pawoo.net | suspended | Sexualized depictions of children (lolicon) |
 
-_"Free speech zone": a place where it's okay to promote e.g. National Socialism because the argument is that open discussion is more important than people's sensitivities or the denazification laws of Germany/France/etc. The term is not meant in a derogatory way; if there's a better one, let me know._
+_*"Free speech zone": a place where it's okay to promote e.g. National Socialism because the argument is that open discussion is more important than people's sensitivities or the denazification laws of Germany/France/etc. The term is not meant in a derogatory way; if there's a better one, let me know._
 
 Notes on our instance
 -----
