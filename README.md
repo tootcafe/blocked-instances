@@ -18,15 +18,16 @@ Blocked instances
 | social.au2pb.net | silenced | Advice of toot.cat admin, GNUSocial apparent free speech zone\*\* |
 | gorf.club | silenced | Advice of toot.cat admin, GNUSocial apparent free speech zone\*\* |
 | sealion.club | silenced | Advice of toot.cat/cybre.space admins, GNUSocial apparent free speech zone\*\* |
-| gs.smuglo.li | silenced | Advice of toot.cat admin, GNUSocial apparent free speech zone\*\* |
+| gs.smuglo.li | suspended | Advice of toot.cat admin, GNUSocial apparent free speech zone\*\*, lolicon\*\*\* |
 | unsafe.space | silenced | Advice of toot.cat admin, GNUSocial apparent free speech zone\*\* |
-| pawoo.net | suspended | Sexualized depictions of children (lolicon) |
+| pawoo.net | suspended | lolicon\*\*\* |
 | wrongthink.net | silenced | GNUSocial apparent free speech zone\*\* |
 
 ### Footnotes
 
 - \* Silenced vs suspended: silenced means they don't appear in the Federated timeline, but if someone discovers the accounts somehow (e.g. via replying to another toot) then they can follow and it will appear in their Home view.
 - \*\* "Free speech zone": a place where it's okay to promote e.g. National Socialism because the argument is that open discussion is more important than people's sensitivities or the denazification laws of Germany/France/etc. The term is not meant in a derogatory way; if there's a better one, let me know.
+- \*\*\* lolicon: sexualized depictions of children
 
 Notes on our instance
 -----
@@ -45,3 +46,4 @@ References
 - https://cybre.space/users/chr/updates/2616
 - https://mastodon.social/@Murassa/2625739
 - https://woofer.alfter.us/conversation/62187#notice-124626
+- https://plateia.org/notice/10007
