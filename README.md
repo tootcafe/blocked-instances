@@ -13,7 +13,7 @@ Blocked instances
 | rainbowdash.net | silenced | Advice of toot.cat/cybre.space admins, GNUSocial apparent free speech zone\*\* |
 | shitposter.club | silenced | Advice of toot.cat/cybre.space admins, GNUSocial apparent free speech zone\*\* |
 | freezepeach.xyz | silenced | Advice of toot.cat/cybre.space admins, GNUSocial apparent free speech zone\*\* |
-| social.headsca.la | silenced | Advice of toot.cat/cybre.space admins, GNUSocial apparent free speech zone\*\* |
+| social.heldscal.la | silenced | Advice of toot.cat/cybre.space admins, GNUSocial apparent free speech zone\*\* |
 | woofer.alfter.us | silenced | Advice of toot.cat admin, GNUSocial apparent free speech zone\*\* |
 | social.au2pb.net | silenced | Advice of toot.cat admin, GNUSocial apparent free speech zone\*\* |
 | gorf.club | silenced | Advice of toot.cat admin, GNUSocial apparent free speech zone\*\* |
