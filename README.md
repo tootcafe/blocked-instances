@@ -22,6 +22,7 @@ Blocked instances
 | unsafe.space | silenced | Advice of toot.cat admin, GNUSocial apparent free speech zone\*\* |
 | pawoo.net | suspended | lolicon\*\*\* |
 | wrongthink.net | silenced | GNUSocial apparent free speech zone\*\* |
+| porntoot.com | suspended | Unflagged porn |
 
 ### Footnotes
 
