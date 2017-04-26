@@ -23,6 +23,7 @@ Blocked instances
 | pawoo.net | suspended | lolicon\*\*\* |
 | wrongthink.net | silenced | GNUSocial apparent free speech zone\*\* |
 | porntoot.com | suspended | Unflagged porn |
+| ediot.social | silenced | Apparent free speech zone\*\* |
 
 ### Footnotes
 
