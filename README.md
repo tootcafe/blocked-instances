@@ -24,6 +24,7 @@ Blocked instances
 | wrongthink.net | silenced | GNUSocial apparent free speech zone\*\* |
 | porntoot.com | suspended | Unflagged porn |
 | ediot.social | silenced | Apparent free speech zone\*\* |
+| admins.town | silenced | Inter-admin politics that doesn't need to pollute the public timeline |
 
 ### Footnotes
 
@@ -49,3 +50,4 @@ References
 - https://mastodon.social/@Murassa/2625739
 - https://woofer.alfter.us/conversation/62187#notice-124626
 - https://plateia.org/notice/10007
+- https://toot.cat/users/polymerwitch/updates/21545
