@@ -25,6 +25,7 @@ Blocked instances
 | porntoot.com | suspended | Unflagged porn |
 | ediot.social | silenced | Apparent free speech zone\*\* |
 | admins.town | silenced | Inter-admin politics that doesn't need to pollute the public timeline |
+| social.targaryen.house | silenced | Apparent free speech zone\*\* |
 
 ### Footnotes
 
