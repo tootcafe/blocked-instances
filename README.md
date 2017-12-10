@@ -27,6 +27,18 @@ Blocked instances
 | admins.town | silenced | Inter-admin politics that doesn't need to pollute the public timeline |
 | social.targaryen.house | silenced | Apparent free speech zone\*\* |
 | noagendasocial.com | silenced | Apparent free speech zone\*\* |
+| social.au2pb.net | silenced | Advice of [Dzuk][] |
+| ika.moe | silenced | Advice of [Dzuk][] |
+| anitwitter.moe | silenced | Advice of [Dzuk][] |
+| baraag.net | suspended | Advice of [Dzuk][] |
+| social.allthefallen.ninja | suspended | Advice of [Dzuk][] |
+| social.homunyan.com | silenced | Advice of [Dzuk][] |
+| preteengirls.biz | suspended | Advice of [Dzuk][] |
+| social.hidamari.blue | silenced | Advice of [Dzuk][] |
+| libertarianism.club | silenced | Advice of [Dzuk][] |
+| toot.love | silenced | Advice of [Dzuk][] |
+
+[Dzuk]: http://telegra.ph/Instances-to-silencesuspend-on-Mastodon-06-23
 
 ### Footnotes
 
@@ -53,3 +65,4 @@ References
 - https://woofer.alfter.us/conversation/62187#notice-124626
 - https://plateia.org/notice/10007
 - https://toot.cat/users/polymerwitch/updates/21545
+- http://telegra.ph/Instances-to-silencesuspend-on-Mastodon-06-23
