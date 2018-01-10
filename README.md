@@ -11,7 +11,7 @@ Blocked instances
 | Instance | Status\* | Reason |
 | ---- | ---- | ---- |
 | rainbowdash.net | silenced | Advice of toot.cat/cybre.space admins, GNUSocial apparent free speech zone\*\* |
-| shitposter.club | silenced | Advice of toot.cat/cybre.space admins, GNUSocial apparent free speech zone\*\* |
+| shitposter.club | suspended | Advice of toot.cat/cybre.space admins, GNUSocial apparent free speech zone\*\*, hosts fake Gargron account |
 | freezepeach.xyz | silenced | Advice of toot.cat/cybre.space admins, GNUSocial apparent free speech zone\*\* |
 | social.heldscal.la | silenced | Advice of toot.cat/cybre.space admins, GNUSocial apparent free speech zone\*\* |
 | woofer.alfter.us | silenced | Advice of toot.cat admin, GNUSocial apparent free speech zone\*\* |
