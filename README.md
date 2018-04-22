@@ -37,6 +37,9 @@ Blocked instances
 | social.hidamari.blue | silenced | Advice of [Dzuk][] |
 | libertarianism.club | silenced | Advice of [Dzuk][] |
 | toot.love | silenced | Advice of [Dzuk][] |
+| pl.smuglo.li | suspended | Advice of [Dzuk][] |
+| pleroma.cucked.me | suspended | Advice of [Dzuk][] |
+| voluntaryism.club | silenced | Advice of [Dzuk][] |
 
 [Dzuk]: http://telegra.ph/Instances-to-silencesuspend-on-Mastodon-06-23
 
