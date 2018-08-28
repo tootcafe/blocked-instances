@@ -1,9 +1,13 @@
 List of Toot Café blocked instances
 =======
 
-This is a list of Mastodon/GNU Social instances blocked by [toot.cafe](https://toot.cafe). If you think an instance has been unfairly blocked, please open an issue and/or a pull request.
+This is a list of Mastodon/Pleroma/GNU Social instances blocked by [toot.cafe](https://toot.cafe). If you think an instance has been unfairly blocked, please open an issue and/or a pull request.
 
-The purpose of this is to be transparent and to collaborate with other admins on identifying those instances that violate the commonly-accepted Code of Conduct in the Mastodon community based on [the example set by mastodon.social](https://mastodon.social/about/more), or those that tend to contain bad actors who do, and who boost unwanted content into other instances.
+The purpose of this is to be transparent and to collaborate with other admins on identifying those instances that may violate the commonly-accepted Code of Conduct in the Mastodon community based on [the example set by mastodon.social](https://mastodon.social/about/more), or those that tend to contain unruly actors who do, and who may send unwanted content into other instances.
+
+**Update/clarification:** this list is for informational purposes only. It should not be considered the _one definitive list for all-time_ of instances full of _bad people who are bad and should feel bad about themselves_. This is a list of instances blocked by toot.cafe based on the judgment of our moderators, our [Code of Conduct](https://toot.cafe/about/more), and the laws of the United States.
+
+Also, a more up-to-date and detailed blocklist can be found in [Dzuk's blockchain](https://github.com/dzuk-mutant/blockchain). That may be a better resource if you want to read up more on the reasoning behind blocking certain instances and make the judgment call for yourself.
 
 Blocked instances
 -------
